@@ -6,7 +6,7 @@ https://github.com/kalelalves/kalelalves/blob/main/ConcernedSimpleDogwoodtwigbor
 <
 <div align="center">
   
-  <img height="560" width="315" src="https://github.com/kalelalves/kalelalves/blob/main/ConcernedSimpleDogwoodtwigborer-size_restricted.gif"/>
+  <img height="315" width="560" src="https://github.com/kalelalves/kalelalves/blob/main/ConcernedSimpleDogwoodtwigborer-size_restricted.gif"/>
 
 </div>
 
