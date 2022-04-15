@@ -6,10 +6,12 @@ https://github.com/kalelalves/kalelalves/blob/main/ConcernedSimpleDogwoodtwigbor
 <
 <div align="center">
   
-  <img height="315" width="560" src="https://github.com/kalelalves/kalelalves/blob/main/ConcernedSimpleDogwoodtwigborer-size_restricted.gif"/>
+  <img height="460" width="720" src="https://github.com/kalelalves/kalelalves/blob/main/ConcernedSimpleDogwoodtwigborer-size_restricted.gif"/>
 
 </div>
-
+</br>
+</br>
+</br>
 <div align="center">
   <a href="https://github.com/kalelalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalelalves&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
