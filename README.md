@@ -38,7 +38,7 @@
 <h3 align="center">📫 Onde me encontrar</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kalelalves/" target="_blank">
+  <a href="https://www.linkedin.com/in/kalel-alves/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kaleljalves@gmail.com">
