@@ -11,15 +11,13 @@
 
 ---
 
-
 <!-- Estatísticas GitHub -->
 <div align="center">
-  https://github.com/kalelalves
-    https://github-readme-stats.vercel.app/api?username=kalelalves&show_icons=true&theme=radical&include_all_commits=true&count_private=true
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalelalves&layout=compactcal
+  <a href="https://github.com/kalelalves">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalelalves&show_icons=true&theme=dark&include_all_commits=true&count_private=false" alt="Estatísticas GitHub"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalelalves&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas"/>
   </a>
 </div>
-
 
 ---
 
